@@ -1,3 +1,8 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
 [theme]
 primaryColor = "#4CAF50"  # you can customize this highlight color
 backgroundColor = "#FFFFFF"  # main background pure white
