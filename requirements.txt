@@ -16,8 +16,8 @@ joblib==1.5.1
 scipy==1.15.3
 
 # SDV / CTGAN stack
-torch==1.12.1
-torchvision==0.13.1 
+torch==2.2.2
+torchvision==0.17.2
 ctgan==0.7.5
 sdv==0.18.0
 sdmetrics==0.9.3
