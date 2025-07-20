@@ -1,0 +1,31 @@
+# Core App Requirements
+streamlit==1.45.1
+pandas==1.5.3
+numpy==1.24.4
+scikit-learn==1.7.0
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==5.24.1
+statsmodels==0.14.4
+xlsxwriter==3.2.5
+openpyxl==3.1.5
+pillow==11.2.1
+toml==0.10.2
+umap-learn==0.5.9.post2
+joblib==1.5.1
+scipy==1.15.3
+
+# SDV / CTGAN stack
+ctgan==0.7.5
+sdv==0.18.0
+sdmetrics==0.9.3
+torch==2.2.2
+torchvision==0.17.2
+cloudpickle==2.2.1
+pyyaml==6.0.2
+packaging==24.2
+
+# For numba
+numba==0.61.2
+llvmlite==0.44.0
+
